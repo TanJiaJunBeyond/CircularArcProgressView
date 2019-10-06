@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircularArcProgressView">
+        <attr name="capv_background_color" format="color" />
+        <attr name="capv_progress_color" format="color" />
+        <attr name="capv_progress_text_color" format="color" />
+        <attr name="capv_percent" format="float" />
+        <attr name="capv_is_show_progress_text" format="boolean" />
+    </declare-styleable>
+
+</resources>

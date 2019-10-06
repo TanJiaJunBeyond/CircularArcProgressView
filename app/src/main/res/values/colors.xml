@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="circular_arc_progress_view_first_background_color">#FF6347</color>
+    <color name="circular_arc_progress_view_first_progress_color">#FFAEB9</color>
+
+    <color name="circular_arc_progress_view_second_background_color">#1E90FF</color>
+    <color name="circular_arc_progress_view_second_progress_color">#48D1CC</color>
+
+    <color name="circular_arc_progress_view_third_background_color">#008B00</color>
+    <color name="circular_arc_progress_view_third_progress_color">#00EE00</color>
+
+    <color name="circular_arc_progress_view_fourth_background_color">#8B008B</color>
+    <color name="circular_arc_progress_view_fourth_progress_color">#9F79EE</color>
+
+</resources>

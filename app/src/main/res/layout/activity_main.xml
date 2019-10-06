@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.tanjiajun.widget.CircularArcProgressView
+        android:id="@+id/capv_first"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:capv_background_color="@color/circular_arc_progress_view_first_background_color"
+        app:capv_is_show_progress_text="true"
+        app:capv_percent="0.8"
+        app:capv_progress_color="@color/circular_arc_progress_view_first_progress_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.tanjiajun.widget.CircularArcProgressView
+        android:id="@+id/capv_second"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:capv_background_color="@color/circular_arc_progress_view_second_background_color"
+        app:capv_is_show_progress_text="true"
+        app:capv_percent="0.5"
+        app:capv_progress_color="@color/circular_arc_progress_view_second_progress_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/capv_first" />
+
+    <com.tanjiajun.widget.CircularArcProgressView
+        android:id="@+id/capv_third"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:capv_background_color="@color/circular_arc_progress_view_third_background_color"
+        app:capv_is_show_progress_text="true"
+        app:capv_progress_color="@color/circular_arc_progress_view_third_progress_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/capv_second" />
+
+    <com.tanjiajun.widget.CircularArcProgressView
+        android:id="@+id/capv_fourth"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:capv_background_color="@color/circular_arc_progress_view_fourth_background_color"
+        app:capv_is_show_progress_text="true"
+        app:capv_progress_color="@color/circular_arc_progress_view_fourth_progress_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/capv_third" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
