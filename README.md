@@ -8,7 +8,6 @@
 
 ## Attributes
 
-```
 |name|format|description|
 |:---:|:---:|:---:|
 | capv_background_color | color | 背景颜色
@@ -16,7 +15,6 @@
 | capv_progress_text_color | color | 进度文本颜色
 | capv_percent | float | 百分比
 | capv_is_show_progress_text | boolean | 是否显示进度文本
-```
 
 ## Use
 
