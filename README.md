@@ -20,7 +20,7 @@
 
 ## Use
 
-**导入你的项目**
+**Including in your project**
 
 ```groovy
 dependencies {
@@ -28,7 +28,7 @@ dependencies {
 }
 ```
 
-**布局文件**
+**xml**
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
