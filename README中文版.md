@@ -4,7 +4,7 @@
 
 ##效果图
 
-![CircularArcProgressView演示GIF.gif]([https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressView%E6%BC%94%E7%A4%BAGIF.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressView演示GIF.gif))
+![CircularArcProgressView演示GIF.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressView演示GIF.gif)
 
 ## 属性
 
