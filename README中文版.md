@@ -2,7 +2,7 @@
 
 **带弧形的进度条**
 
-##效果图
+## 效果图
 
 ![CircularArcProgressView演示GIF.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressViewDemo.gif)
 
