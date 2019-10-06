@@ -2,7 +2,7 @@
 
 **progress view with circular arc**
 
-##rendering
+##Rendering
 
 ![CircularArcProgressView演示GIF.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressViewDemo.gif)
 
