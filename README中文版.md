@@ -2,7 +2,7 @@
 
 **带弧形的进度条**
 
-[英文本README](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/README.md)
+[英文版README](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/README.md)
 
 ## 效果图
 
