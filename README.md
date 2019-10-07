@@ -2,7 +2,7 @@
 
 **progress view with circular arc**
 
-[The Chinese version of README]([https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/README%E4%B8%AD%E6%96%87%E7%89%88.md](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/README中文版.md))
+[The Chinese version of README]
 
 ## Rendering
 
