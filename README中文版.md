@@ -2,9 +2,11 @@
 
 **带弧形的进度条**
 
+[英文本README](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/README.md)
+
 ## 效果图
 
-![CircularArcProgressView演示GIF.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressViewDemo.gif)
+![CircularArcProgressViewDemo.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressViewDemo.gif)
 
 ## 属性
 
