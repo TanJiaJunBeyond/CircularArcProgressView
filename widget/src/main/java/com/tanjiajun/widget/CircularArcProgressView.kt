@@ -30,6 +30,8 @@ class CircularArcProgressView @JvmOverloads constructor(
 
     /**
      * Set percent to show the progress.
+     *
+     * @param percent
      */
     var percent: Float = 0f
         set(value) {
