@@ -10,7 +10,7 @@
 
 ## 属性
 
-|name|format|description|
+|Name|Format|Description|
 |:---:|:---:|:---:|
 | capv_background_color | color | 背景颜色
 | capv_progress_color | color | 进度条颜色
