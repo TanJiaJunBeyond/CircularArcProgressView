@@ -24,7 +24,7 @@
 
 ```groovy
 dependencies {
-    implementation 'com.tanjiajun.widget:CircularArcProgressView:1.0.1'
+    implementation 'com.tanjiajun.widget:CircularArcProgressView:1.0.2'
 }
 ```
 
