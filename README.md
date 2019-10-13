@@ -6,7 +6,7 @@
 
 ## Rendering
 
-![CircularArcProgressViewDemo.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/blob/master/CircularArcProgressViewDemo.gif)
+![CircularArcProgressViewDemo.gif](https://github.com/TanJiaJunBeyond/CircularArcProgressView/raw/master/CircularArcProgressViewDemo.gif)
 
 ## Attributes
 
