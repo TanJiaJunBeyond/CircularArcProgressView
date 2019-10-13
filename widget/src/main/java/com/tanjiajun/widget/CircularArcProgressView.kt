@@ -30,8 +30,6 @@ class CircularArcProgressView @JvmOverloads constructor(
 
     /**
      * Set percent to show the progress.
-     *
-     * @param percent
      */
     var percent: Float = 0f
         set(value) {
@@ -141,11 +139,10 @@ class CircularArcProgressView @JvmOverloads constructor(
     /**
      * Start animator.
      *
-     * @param timeInterpolator Such as, AccelerateDecelerateInterpolator, AccelerateInterpolator,
-     *                         AnticipateInterpolator, AnticipateOvershootInterpolator, BaseInterpolator,
-     *                         BounceInterpolator, CycleInterpolator, DecelerateInterpolator, Interpolator,
-     *                         LinearInterpolator, OvershootInterpolator, PathInterpolator.
-     * @param duration
+     * @param timeInterpolator the interpolator to be used by this animation. The default value is
+     * android.view.animation.AccelerateInterpolator.
+     *
+     * @param duration the length of the animation.
      */
     @JvmOverloads
     fun startAnimator(

@@ -49,7 +49,7 @@ publish {
     userOrg = 'tanjiajun'
     groupId = 'com.tanjiajun.widget'
     artifactId = 'CircularArcProgressView'
-    publishVersion = '1.0.1'
+    publishVersion = '1.0.2'
     desc = 'Android Widget:CircularArcProgressView'
     website = 'https://github.com/TanJiaJunBeyond/CircularArcProgressView'
 }
